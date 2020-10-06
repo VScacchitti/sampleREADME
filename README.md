@@ -37,9 +37,9 @@ The README below the image was created using the README generator!
 
   ## Questions
   
-![badge](https://img.shields.io/badge/Github-Sample Username-4cbbb9)
+![badge](https://img.shields.io/badge/Github-VScacchitti-4cbbb9)
   
-![Profile Image](https://github.com/Sample Username.png?size=50)
+![Profile Image](https://github.com/VScacchitti.png?size=50)
   
 View the project in GitHub: Some project URL
   
