@@ -1,8 +1,12 @@
+The README below the image was created using the README generator!
+
+![Screen Shot 2020-10-06 at 10 51 41 AM](https://user-images.githubusercontent.com/67161794/95218503-553c5800-07c2-11eb-9c6b-66642c9a46f7.png)
 
   # Sample ReadMe
 
   ## Description
-  This README was generated using README generator
+  This README was generated using README generator see
+
 
   ## Table of Contents
   - [Installation](#installation)
